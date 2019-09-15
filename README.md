@@ -9,7 +9,7 @@ Python 3 in the path C:\Python\Python37-32\python.exe
 
 ## Deployment
 * Copy the files to C:\Declutter
-* [Add the folder path 'C:\Declutter' to the environment variables](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
+* Add the folder path 'C:\Declutter' to the [environment variables](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
 * Go to command prompt
 * Navigate to the folder you want to declutter
 * Type declutter and press enter
