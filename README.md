@@ -18,7 +18,7 @@ Python 3
 * Batch script
 
 ## Authors
-[Karthik Prakash](https://github.com/karthikprakash1998)
+[Karthik Prakash](https://github.com/thehackermonk)
 
 ## Acknowledgments
 Got inspired by [Kalle Hallden](https://github.com/KalleHallden)
