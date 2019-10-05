@@ -66,19 +66,19 @@ for file in allFiles:
         os.rename(file,newFile)
         
     elif extension in executableFiles:
-        folder = folderPath+'\Executable Files'
+        folder = folderPath+'\Executable Programs'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
         
     elif extension in fontFiles:
-        folder = folderPath+'\Font Files'
+        folder = folderPath+'\Fonts'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
         
     elif extension in imageFiles:
-        folder = folderPath+'\Image Files'
+        folder = folderPath+'\Images'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
@@ -96,7 +96,7 @@ for file in allFiles:
         os.rename(file,newFile)
         
     elif extension in programmingFiles:
-        folder = folderPath+'\Programming Files'
+        folder = folderPath+'\Code'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
@@ -114,19 +114,19 @@ for file in allFiles:
         os.rename(file,newFile)
         
     elif extension in videoFiles:
-        folder = folderPath+'\Video Files'
+        folder = folderPath+'\Videos'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
         
     elif extension in wordFiles:
-        folder = folderPath+'\Word Files'
+        folder = folderPath+'\Documents'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
         
     else:
-        folder = folderPath+'\Other Files'
+        folder = folderPath+'\Others'
         newFile=folder+"\\"+fileName
         createFolder(folder)
         os.rename(file,newFile)
