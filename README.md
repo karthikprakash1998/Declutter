@@ -1,4 +1,7 @@
 # Stack
+
+![GitHub last commit](https://img.shields.io/github/last-commit/thehackermonk/Stack?style=flat-square) ![GitHub](https://img.shields.io/github/license/thehackermonk/Stack?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/thehackermonk/Stack?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/thehackermonk/Stack?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/thehackermonk/Stack?logo=Python&style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thehackermonk/Stack?style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/thehackermonk?style=social)
+
 Stack is a python script that can be used to make directories clutter-free. It organizes files in the directory according to the file format.
 
 ## Getting Started
